@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: Arial, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+    padding:20px;
+}
+
+.resume{
+    max-width:900px;
+    margin:auto;
+    background:#fff;
+    padding:30px;
+    border-radius:8px;
+    box-shadow:0 0 10px rgba(150, 31, 31, 0.1);
+}
+
+.header{
+    text-align:center;
+    border-bottom:3px solid #bad2eb;
+    padding-bottom:15px;
+    margin-bottom:20px;
+}
+
+.header h1{
+    color:#616468;
+    margin-bottom:10px;
+}
+
+.contact p{
+    margin:5px 0;
+}
+
+section{
+    margin-top:20px;
+}
+
+section h2{
+    background:#2c3e50;
+    color:white;
+    padding:8px;
+    border-radius:5px;
+    margin-bottom:10px;
+}
+
+ul{
+    margin-left:20px;
+}
+
+li{
+    margin-bottom:5px;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:10px;
+}
+
+table, th, td{
+    border:1px solid #333;
+}
+
+th{
+    background:#eaeaea;
+}
+
+th, td{
+    padding:10px;
+    text-align:left;
+}
+
+h3{
+    margin-top:10px;
+    color:#2c3e50;
+}
+
+h4{
+    margin-top:10px;
+}
+
+.signature{
+    margin-top:40px;
+}
+
+.signature p{
+    margin-top:8px;
+}
+```
+
