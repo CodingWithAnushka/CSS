@@ -1,0 +1,27 @@
+/* Element Selector */
+h1 {
+    color: green;
+}
+
+/* Element Selector */
+p {
+    font-size: 18px;
+}
+
+/* Class Selector */
+.blue {
+    color: blue;
+}
+
+/* ID Selector */
+#red {
+    color: red;
+}
+
+/* Element Selector */
+button {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+}
